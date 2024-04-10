@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://drive.google.com/drive/folders/1yj0zT_aIzAtAyI9cU_xdO9msGpJ7Jv1V">
-        <img src="https://user-images.githubusercontent.com/26109316/218765786-5ae9d65d-10fc-4626-af72-8e833e3b8f34.jpg" alt="count-objects-crossing-line">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultralytics.com%2Fvi%2Fblog%2Fintroducing-ultralytics-yolov8&psig=AOvVaw0zkRGuGAmPtql7DhrHdtck&ust=1712839722396000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjjhKrXt4UDFQAAAAAdAAAAABAE">
     </a>
 </p>
 
