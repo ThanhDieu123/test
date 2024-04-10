@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://drive.google.com/drive/folders/1yj0zT_aIzAtAyI9cU_xdO9msGpJ7Jv1V">
-        <img src="https://media.licdn.com/dms/image/D4D33AQFald1wl12KUw/productpage-image_1128_635/0/1689505935164/ultralytics_yolov8_image?e=2147483647&v=beta&t=Vw6uon490uavwUwtUS3iiE0LEu9Il3hovgx3GmGn8ys">
+        <img src="https://user-images.githubusercontent.com/26109316/218765786-5ae9d65d-10fc-4626-af72-8e833e3b8f34.jpg" alt="count-objects-crossing-line">
     </a>
 </p>
 
