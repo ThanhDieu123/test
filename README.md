@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://drive.google.com/drive/folders/1yj0zT_aIzAtAyI9cU_xdO9msGpJ7Jv1V">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultralytics.com%2Fvi%2Fblog%2Fintroducing-ultralytics-yolov8&psig=AOvVaw0zkRGuGAmPtql7DhrHdtck&ust=1712839722396000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjjhKrXt4UDFQAAAAAdAAAAABAE">
+        <img src="https://media.licdn.com/dms/image/D4D33AQFald1wl12KUw/productpage-image_1128_635/0/1689505935164/ultralytics_yolov8_image?e=2147483647&v=beta&t=Vw6uon490uavwUwtUS3iiE0LEu9Il3hovgx3GmGn8ys">
     </a>
 </p>
 
